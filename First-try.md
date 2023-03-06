@@ -26,4 +26,4 @@ for (let i =6 0; i++){
 }
 ```
 
-if we just want to write a line i===0
+if we just want to write a line i === 0
